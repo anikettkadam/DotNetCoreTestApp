@@ -8,3 +8,5 @@
 
 # Ignore all obj/ directories
 **/obj/
+/DotNetCoreTesting/bin/Debug/net8.0/DotNetCoreTesting.dll
+/DotNetCoreTesting/bin/Debug/net8.0/DotNetCoreTesting.exe
