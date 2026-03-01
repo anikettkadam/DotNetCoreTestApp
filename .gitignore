@@ -3,7 +3,8 @@
 ################################################################################
 
 /.vs
-/DotNetCoreTesting/obj/DotNetCoreTesting.csproj.nuget.dgspec.json
-/DotNetCoreTesting/obj/project.assets.json
-/DotNetCoreTesting/obj/project.nuget.cache
-/DotNetCoreTesting/obj/Debug/net8.0/ref/DotNetCoreTesting.dll
+# Ignore all bin/ directories
+**/bin/
+
+# Ignore all obj/ directories
+**/obj/
